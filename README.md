@@ -7,7 +7,9 @@ primitive_calc
 - сумму
 - разность
 - среднее арифметическое модулей
+- произведение
+- частное
 ## Скриншот консоли
-![image](https://user-images.githubusercontent.com/73584580/132328101-3b271d50-8818-4d05-a5f9-bf675a7505c5.png)
+![image](https://user-images.githubusercontent.com/73584580/132329034-c9872e52-5c11-4939-8dc1-c1cccc8f0a53.png)
 ## Как пользоваться программой
 Основной файл primitive_calc.py можно запустить в любой среде разработки, поддерживающей Python версии 3 и выше.
